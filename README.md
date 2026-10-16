@@ -163,15 +163,12 @@ Budgets and revenues are expressed in millions of US dollars in the processed da
 
 The analysis covers a selected set of movies, not the entire movie industry. Missing values and the limited sample size may affect comparisons. Collection membership is based on the collection information recorded by TMDb.
 
-## Results
-
-See [`reports/final_report.md`](reports/final_report.md) for the methodology, results, limitations, and conclusions.
 
 ## Author
 
 **Vedaste MUGABO**
 
-GitHub: [MugaboVedaste](https://github.com/MugaboVedaste)
+GitHub: [MugaboVedaste](https://github.com/MugaboVedaste/TMDB-Movie-Analysis)
 
 ## Acknowledgment
 
