@@ -53,11 +53,9 @@ TMDB-Movie-Analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/TMDB-Movie-Analysis.git
+git clone https://github.com/MugaboVedaste/TMDB-Movie-Analysis.git
 cd TMDB-Movie-Analysis
 ```
-
-Replace `YOUR_USERNAME` and the repository name if necessary.
 
 ### 2. Create a virtual environment
 
