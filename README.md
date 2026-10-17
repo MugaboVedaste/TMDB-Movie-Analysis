@@ -34,14 +34,13 @@ TMDB-Movie-Analysis/
 ├── notebooks/
 │   ├── 01_data_extraction.ipynb
 │   ├── 02_data_cleaning.ipynb
-│   ├── 03_kpi_implementation_and_analysis.ipynb
+│   ├── 03_implementation_and_analysis.ipynb
 │   └── 04_data_visualization.ipynb
 ├── data/
 │   ├── raw/
 │   └── processed/
 ├── reports/
 │   ├── figures/
-│   └── final_report.md
 ├── .env
 ├── .env.example
 ├── .gitignore
@@ -111,7 +110,7 @@ Run the notebooks in this order:
 
 1. `01_data_extraction.ipynb` — retrieves movie details and credits.
 2. `02_data_cleaning.ipynb` — cleans the raw dataset and saves the processed data.
-3. `03_kpi_implementation_and_analysis.ipynb` — calculates KPIs and analyzes movies, franchises, and directors.
+3. `03_implementation_and_analysis.ipynb` — calculates KPIs and analyzes movies, franchises, and directors.
 4. `04_data_visualization.ipynb` — creates charts and saves figures.
 
 Run the earlier notebooks first if the raw or processed data files are not available.
